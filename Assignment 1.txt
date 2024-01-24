@@ -1,0 +1,92 @@
+NAME                                       ACCESSNUMBER 
+
+GENSI COLLIN IKIRIZA                        A96401                   
+OKELLO NAHUM                                A97260                         
+NABIL SENGOOBA                              A97227                            
+
+
+
+Software Development Life Cycle (SDLC) 
+
+1. Introduction to SDLC:
+   - The Software Development Life Cycle is a process used for planning, creating, testing, and deploying an information system.
+   - Involves several distinct stages, each with its own processes and deliverables.
+
+2. Stages of SDLC:
+   a. Requirement Analysis
+      - Gathering and documenting what is required by users and other stakeholders.
+      - Involves communication with stakeholders and detailed understanding of their needs.
+
+   b. Design
+      - Translating requirements into a software solution.
+      - Involves creating architecture and design documents, often with models and prototypes.
+
+   c. Implementation (or Coding)
+      - Actual coding of the software.
+      - Developers write code according to the design documentation and best practices.
+
+   d. Testing
+      - Ensuring the software meets all requirements and is bug-free.
+      - Involves various types of testing such as unit testing, integration testing, system testing, and user acceptance testing.
+
+   e. Deployment
+      - Releasing the software into a live environment.
+      - Could be a gradual process (phased deployment) or all at once.
+
+   f. Maintenance
+      - Ongoing support and enhancement of the software.
+      - Includes fixing any issues that arise and adding new features as required.
+
+
+3. Several software development life cycle (SDLC) methodologies exist, each with its own set of principles, practices, and advantages. Here are some of the most commonly used SDLC methodologies and examples of companies that use them:
+
+A.Agile Model - General:
+
+Spotify: Spotify is known for its unique approach to Agile, blending elements of Scrum and Kanban. They've developed their own model, often referred to as the "Spotify Model," which emphasizes autonomous, cross-functional teams known as squads.
+Amazon: Amazon employs Agile principles across its teams, using them to innovate and deliver quickly in a highly competitive market.
+
+Scrum:
+Salesforce: Salesforce uses Scrum in its development process. This approach helps them manage complex product development and maintain flexibility in their project management.
+Adobe: Adobe has integrated Scrum practices into its development processes, particularly in managing its complex software development projects.
+
+Kanban:
+Zara (Inditex): Zara, a leading fashion retailer and part of the Inditex group, uses Kanban to manage its supply chain and production processes, ensuring agility in responding to fashion trends.
+Siemens Healthineers: Siemens Healthineers uses Kanban in various areas, including software development and production, to improve efficiency and responsiveness.
+
+Extreme Programming (XP):
+John Deere: John Deere has implemented XP practices in its software development processes, particularly for developing software for its machinery and equipment.
+ThoughtWorks: This global software consultancy is known for its strong emphasis on XP practices, helping clients implement these methodologies in software development.
+
+
+B. Iterative Model: The Iterative Model, which facilitates gradual improvements through repeated cycles, is a popular choice among many organizations. Here are alternative examples of companies that have employed the Iterative Model in their software development processes:
+
+IBM:
+IBM has a long history of using iterative approaches in its software development. The company has been at the forefront of adopting and refining various development methodologies, including iterative models, to enhance the efficiency and effectiveness of their software solutions.
+
+Boeing:
+Boeing, in its complex aerospace projects, often employs iterative development methodologies. This approach is particularly useful in projects where requirements and solutions evolve through collaboration between cross-functional teams.
+
+
+C. The Spiral Model, known for its focus on risk assessment and iterative development, is used by various companies, especially for complex and high-risk projects. Here are alternative examples of companies that have utilized the Spiral Model in their development processes:
+
+Lockheed Martin:
+Lockheed Martin, a prominent player in the aerospace and defense sector, has employed the Spiral Model for software development in several of its complex projects. This model helps them manage risks effectively, especially in projects where requirements are not fully known at the start.
+
+Motorola:
+Motorola has used the Spiral Model in the development of some of its telecommunications and electronics products. The model's emphasis on iterative refinement and risk management is particularly suited to the fast-evolving tech and communications sector.
+
+
+ 
+D.The V-Model, known for its systematic approach in which each development phase is associated with a corresponding testing phase, is widely used in industries where reliability and safety are paramount. Here are  examples of companies that have utilized the V-Model in their development processes:
+
+Bosch:
+Bosch, particularly in its automotive division, employs the V-Model for developing safety-critical systems like electronic stability control and fuel injection systems. This approach ensures high reliability and compliance with stringent automotive standards.
+
+Siemens:
+Siemens, in its healthcare division, uses the V-Model for developing medical devices and equipment. This method ensures rigorous testing and validation, which is crucial in healthcare technology to ensure patient safety and compliance with regulatory standards.
+
+
+4. Importance of SDLC:
+   - Provides a structured approach to software development.
+   - Helps in managing project risks and ensuring quality.
+   - Facilitates clear communication among team members and stakeholders.
