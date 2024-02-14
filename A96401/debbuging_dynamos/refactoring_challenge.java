@@ -68,7 +68,7 @@ public class DataProcessor {
 }
 
 interface DataSet {
-    // Methods to access and iterate over data items
+    // Methods to access and iterate over data items  
 }
 
 class Data {
@@ -78,5 +78,5 @@ class Data {
         return id;
     }
 
-    // Other relevant attributes and methods
+    // Other relevant attributes and methods here
 }
